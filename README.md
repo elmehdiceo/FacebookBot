@@ -10,5 +10,5 @@ Voici le lien pour télécharger le pdf : http://eepurl.com/cpGD-P
 
 N'hésitez pas à mes poser vos questions sur mon groupe Facebook:
 ![Facebook Group](https://gallery.mailchimp.com/f624a95d6df6eed3944133b51/images/dfb8d36a-4776-43f3-bab5-3ed26f73efd3.png)
-![Facebook Group](https://www.facebook.com/groups/1795624087378868/)
+https://www.facebook.com/groups/1795624087378868/
 
