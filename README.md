@@ -2,7 +2,7 @@
 
 ![Header](https://raw.githubusercontent.com/mlaidouni/FacebookBot/master/Facebook%20Messanger%20Bot.png)
 
-Cette formation d'un peu plus d'une heure vous permettra de prendre en main votre premier Facebook Messenger Bot. 
+Cette formation vous permettra de prendre en main votre premier Facebook Messenger Bot. 
 
 Nous verrons comment configurer votre environnement pour le développement, Déployer votre Bot sur Heroku, Connecter votre bot avec Facebook App et comment Manipuler votre bot Facebook Messenger
 
